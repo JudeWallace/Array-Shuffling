@@ -1,0 +1,19 @@
+N=1, avg_quality=0.768708
+N=2, avg_quality=0.649660
+N=3, avg_quality=0.595238
+N=4, avg_quality=0.553741
+N=5, avg_quality=0.518367
+N=6, avg_quality=0.504082
+N=7, avg_quality=0.495238
+N=8, avg_quality=0.498639
+N=9, avg_quality=0.508844
+N=10, avg_quality=0.517007
+N=11, avg_quality=0.510204
+N=12, avg_quality=0.496599
+N=13, avg_quality=0.507483
+N=14, avg_quality=0.500680
+N=15, avg_quality=0.509524
+
+Based upon my results I can conclude after 6 shuffles an array of 50 can be said 
+to be riffle shuffle adequately, as all the following riffle shuffles yield
+an average close to 0.5
